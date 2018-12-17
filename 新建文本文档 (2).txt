@@ -1,0 +1,2 @@
+git merge --allow-unrelated-histroies FETCH_HEAD
+合并不相关历史的
